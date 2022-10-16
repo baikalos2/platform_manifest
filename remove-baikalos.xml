@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="AICP/build" />
+  <remove-project name="AICP/build_soong" />
+  <remove-project name="AICP/frameworks_av" />
+  <remove-project name="AICP/frameworks_base" />
+  <remove-project name="AICP/frameworks_native" />
+  <remove-project name="AICP/packages_apps_Settings" />
+  <remove-project name="AICP/platform_manifest" />
+  <remove-project name="AICP/system_core" />
+  <remove-project name="AICP/packages_apps_AicpExtras" />
+  <remove-project name="AICP/vendor_aicp" />
+</manifest>
